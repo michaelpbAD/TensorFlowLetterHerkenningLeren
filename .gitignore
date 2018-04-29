@@ -1,0 +1,7 @@
+__pycache__/
+PodSixNet/__pycache__
+PodSixNet/*.pyc
+\.idea/
+tensorflow35/*
+tenserflow36/*
+links.docx
